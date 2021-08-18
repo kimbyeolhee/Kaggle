@@ -9,5 +9,5 @@ XGBoost & LightGBM 실습<br/>
 
 
 ## Text Analysis
-[]
-[Mercari Price Suggestion Challenge]
+[]<br/>
+[Mercari Price Suggestion Challenge](https://github.com/kimbyeolhee/Kaggle/blob/main/Mercari%20Price%20Suggestion%20Challenge/Mercari%20Price%20Suggestion%20Challenge.ipynb)<br/>
