@@ -2,6 +2,7 @@
 
 ## Regression
 [Used Car Price Predcition](https://github.com/kimbyeolhee/Kaggle/blob/main/Used%20Car%20Price%20Prediction/2021-09-18_%EC%A4%91%EA%B3%A0%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B0%80%EA%B2%A9%20Regression.ipynb)<br/>
+
 ------------------------------
 ## Classification
 [Pima Indians Diabetes](https://github.com/kimbyeolhee/Kaggle/tree/main/Pama_indians_diabetes)<br/>
