@@ -16,6 +16,7 @@ XGBoost & LightGBM 실습<br/>
 [League of Legend Prediction of Victory](https://github.com/kimbyeolhee/Kaggle/blob/main/League%20of%20Legends%20Diamond%20Ranked%20Games%20Prediction%20of%20Victory/2021-09-22_League%20of%20Legend%2010%EB%B6%84%20%EC%A7%80%ED%91%9C%EB%A1%9C%20%EC%8A%B9%EB%A6%AC%20%EC%98%88%EC%B8%A1.ipynb)<br/>
 [Winning Classification using European Soccer Database]
 (https://github.com/kimbyeolhee/Kaggle/blob/main/European%20Soccer%20Database/2021_10_13_%EC%B6%95%EA%B5%AC%20%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%20%20Classification.ipynb)<br>
+
 -------------------------------
 ## Text Analysis
 []<br/>
