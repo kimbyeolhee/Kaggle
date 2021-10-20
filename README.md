@@ -14,7 +14,8 @@ XGBoost & LightGBM 실습<br/>
 [Heart Failure Prediction](https://github.com/kimbyeolhee/Kaggle/blob/main/Heart%20Failure%20Prediction/2021-09-17_%EC%8B%AC%EB%B6%80%EC%A0%84%EC%A6%9D%20Classification%20.ipynb)<br/>
 [Students' Academic Performance Classification](https://github.com/kimbyeolhee/Kaggle/blob/main/Students'%20Academic%20Performance%20Classification/2021-09-23_%ED%95%99%EC%83%9D%EC%9D%98%20%ED%95%99%EA%B5%90%20%EC%84%B1%EC%A0%81%20%EC%98%88%EC%B8%A1%20%EB%B0%8F%20%EC%9A%94%EC%9D%B8%20%EB%B6%84%EC%84%9D.ipynb)<br/>
 [League of Legend Prediction of Victory](https://github.com/kimbyeolhee/Kaggle/blob/main/League%20of%20Legends%20Diamond%20Ranked%20Games%20Prediction%20of%20Victory/2021-09-22_League%20of%20Legend%2010%EB%B6%84%20%EC%A7%80%ED%91%9C%EB%A1%9C%20%EC%8A%B9%EB%A6%AC%20%EC%98%88%EC%B8%A1.ipynb)<br/>
-
+[Winning Classification using European Soccer Database]
+(https://github.com/kimbyeolhee/Kaggle/blob/main/European%20Soccer%20Database/2021_10_13_%EC%B6%95%EA%B5%AC%20%EC%8A%B9%EB%B6%80%EC%98%88%EC%B8%A1%20%20Classification.ipynb)<br>
 -------------------------------
 ## Text Analysis
 []<br/>
