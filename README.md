@@ -2,6 +2,7 @@
 
 ## Regression
 [Used Car Price Predcition](https://github.com/kimbyeolhee/Kaggle/blob/main/Used%20Car%20Price%20Prediction/2021-09-18_%EC%A4%91%EA%B3%A0%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B0%80%EA%B2%A9%20Regression.ipynb)<br/>
+[NewYork City Airbnb Price Prediction](https://github.com/kimbyeolhee/Kaggle/blob/main/NewYork%20City%20Airbnb%20Price%20Prediction/2022_01_03_New%20York%20City%20Airbnb%20Price%20Regression.ipynb)<br/>
 [Happiness Score Prediction](https://github.com/kimbyeolhee/Kaggle/blob/main/Happiness%20Score%20prediction/2021_01_04_happiness%20Regression.ipynb)<br/>
 
 ------------------------------
