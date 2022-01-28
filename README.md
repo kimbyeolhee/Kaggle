@@ -5,6 +5,7 @@
 [NewYork City Airbnb Price Prediction](https://github.com/kimbyeolhee/Kaggle/blob/main/NewYork%20City%20Airbnb%20Price%20Prediction/2022_01_03_New%20York%20City%20Airbnb%20Price%20Regression.ipynb)<br/>
 [Happiness Score Prediction](https://github.com/kimbyeolhee/Kaggle/blob/main/Happiness%20Score%20prediction/2021_01_04_happiness%20Regression.ipynb)<br/>
 [Video Game Sales Prediction with Ratings](https://github.com/kimbyeolhee/Kaggle/blob/main/Video%20Game%20Sales%20With%20Ratings/%EA%B2%8C%EC%9E%84%20%EB%A6%AC%EB%B7%B0%ED%8F%89%EA%B0%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%ED%8C%90%EB%A7%A4%EB%9F%89_%EC%9C%A0%EC%A0%80%20%EC%A0%90%EC%88%98%20%EC%98%88%EC%B8%A1%20.ipynb)<br/>
+[Covid 19 data Prophet Prediction](https://github.com/kimbyeolhee/Kaggle/blob/main/COVID-19%20data%20Prophet%20Prediction/%EC%BD%94%EB%A1%9C%EB%82%9819%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%EC%98%88%EC%B8%A1.ipynb)<br/>
 
 ------------------------------
 ## Classification
